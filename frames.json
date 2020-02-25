@@ -38,10 +38,10 @@
             }
         ],
         "core_system": {
-            "name": "Nut Bust",
-            "description": "<i>It's a BIG load!</i>",
-            "active_name": "Bust The Nut",
-            "active_effect": "Hnnnggg I'm trying to code in class but I'm dummy thicc and the clacking of my keyboard keeps alerting Meredith",
+            "name": "Example",
+            "description": "<i>Sample Description!</i>",
+            "active_name": "Sample Name",
+            "active_effect": "Example Effect",
             "tags": [
                 {
                     "id": "tg_protocol"
