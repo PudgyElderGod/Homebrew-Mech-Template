@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Example Mod",
+        "sp": 69,
+        "applied_to": ["Cannon","CQB","Launcher","Rifle"],
+        "applied_string": "Melee, CQB, or Cannon",
+        "source": "GMS",
+        "license": "GMS",
+        "license_level": 0,
+        "effect": "Example Effect",
+        "description": "<i>Sample Description</i>",
+        "data_type": "mod",
+        "aptitude": {},
+        "tags": [{"id": "tg_mod"}],
+        "restricted_mounts": ["Auxiliary", "Main","Heavy","Superheavy"]
+      }
+]

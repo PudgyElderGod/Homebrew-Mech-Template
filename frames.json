@@ -1,0 +1,58 @@
+[
+    {
+        "source": "IPS-N",
+        "name": "Example",
+        "image_url": "",
+        "y_position":"50",
+        "mechtype": [
+            "Striker","Artillery"
+        ],
+        "description":"<i>Sample Description</i>",
+        "mounts": [
+            "Flex",
+            "Flex",
+            "Aux/Aux"
+        ],
+        "stats": {
+            "size": 1,
+            "armor": 0,
+            "hp": 8,
+            "evasion": 8,
+            "edef": 8,
+            "heatcap": 8,
+            "repcap": 4,
+            "sensor_range": 10,
+            "tech_attack": 1,
+            "save": 10,
+            "speed": 6,
+            "sp": 9
+        },
+        "traits": [
+            {
+                "name": "Example 1",
+                "description": "Screeching!"
+            },
+            {
+                "name": "Example 2",
+                "description": "Screaming is screeching but louder and more directed."
+            }
+        ],
+        "core_system": {
+            "name": "Nut Bust",
+            "description": "<i>It's a BIG load!</i>",
+            "active_name": "Bust The Nut",
+            "active_effect": "Hnnnggg I'm trying to code in class but I'm dummy thicc and the clacking of my keyboard keeps alerting Meredith",
+            "tags": [
+                {
+                    "id": "tg_protocol"
+                },
+                {
+                    "id": "tg_heat_self",
+                    "val": 69
+                }
+            ]
+        },
+        "data_type": "frame",
+        "aptitude": {}
+    }
+]

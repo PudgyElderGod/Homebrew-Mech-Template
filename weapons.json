@@ -1,0 +1,18 @@
+[
+    {
+     "name": "Sample Weapon",
+     "mount": "Main",
+     "type": "Rifle",
+     "damage": [{"type": "Kinetic","val": "6d9"}],
+     "range": [{"type": "Range","val": 420}],
+     "tags": [{"id": "tg_accurate"},{"id": "tg_reliable","val": 2},{"id": "tg_loading"},{"id": "tg_ap"}],
+     "source": "GMS",
+     "license": "GMS",
+     "license_level": 0,
+     "effect": "Example Effect",
+     "description": "<i>Sample Description</i>",
+     "data_type": "weapon",
+     "sp":69,
+     "aptitude": {}
+    }
+ ]

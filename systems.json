@@ -1,0 +1,15 @@
+[
+    {
+        "name": "Example System",
+        "type": "System",
+        "sp": 69,
+        "tags": [{"id": "tg_unique"}],
+        "source": "GMS",
+        "license": "GMS",
+        "license_level": 0,
+        "effect": "Sample Effect",
+        "description": "<i>Sample Description</i>",
+        "data_type": "system",
+        "aptitude": {}
+      }
+]
